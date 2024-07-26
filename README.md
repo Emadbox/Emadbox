@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=sarath-pm&style=flat&color=blue)
 
-<h1 align="center">Dr. Emad Gamti </h1>
+<h1 align="center">Dr. Emad Gamati </h1>
 
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
